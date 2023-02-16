@@ -1,13 +1,13 @@
 {
   "version": 2.0,
-  "questions": [
+  "1.	What is the resonance condition for the series LCR circuit?": [
     {
-      "question": "This is a Sample Question 1?",
+      "1.	What is the resonance condition for the series LCR circuit?": "This is a Sample Question 1?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The capacitive and inductive reactances are equal and 180 degrees out of phase at resonance.",
+        "b": "The capacitive and inductive reactances are not equal and 180 degrees out of phase at resonance.",
+        "c": "The capacitive and inductive reactances are equal and 90 degrees out of phase at resonance.",
+        "d": "None of these."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "The capacitive and inductive reactances are equal and 180 degrees out of phase at resonance.": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "2.	What is the impedance of the series LCR circuit": "This is a Sample Question 2?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Z=√ R2+(XC+XL)2",
+        "b": "Z=√ R2+(XC-XL)2",
+        "c": "Z=√ R2+(XC/XL)2",
+        "d": "Z=√ R2-(XC+XL)2"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +32,24 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "Z=√ R2+(XC-XL)2": "b",
+      "difficulty": "beginner"
+    }
+    {
+      "3.	3.	What is the unit of Impedance?": "This is a Sample Question 3?",
+      "answers": {
+        "a": "V",
+        "b": "mA",
+        "c": "dimensionless",
+        "d": "ohm2"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "ohm": "d	",
       "difficulty": "beginner"
     }
   ]
